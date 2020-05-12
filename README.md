@@ -5,3 +5,13 @@ A Pokédex App make you able to:
 
       1- Search for Pokémon and view their attributes and evolution.
       2- Browse through each Pokémon skills and their name, power, and description.
+
+
+
+
+
+
+
+All the Pokémon data in the app from the modern RESTful API.
+
+URL: https://pokeapi.co/
